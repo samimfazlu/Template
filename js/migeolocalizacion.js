@@ -1,0 +1,1 @@
+console.info('Se carga siempre con Modernizr gracias a BOTH');
